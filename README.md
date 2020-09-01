@@ -14,6 +14,8 @@ Currently doing development for the [@sugarchain-project](https://github.com/sug
 - Discord: Too tall for u#9808
 - Mail: popingcorn12@gmail.com
 
+#### Solution to All your problems!
+<img src="https://github.com/Nugetzrul3/Nugetzrul3/blob/master/itcrowd.gif" style="width:100%!important;"/>
 <!--
 **Nugetzrul3/Nugetzrul3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
