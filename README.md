@@ -1,6 +1,6 @@
 ### Hello there 👋
 #### About me!
-Hi there, my name is Salmaan.
+Hi there, my name is Salmaan.<br />
 I am a high school student doing some small time programming. Currently I do:
 * Python
 * Javascript
