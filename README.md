@@ -6,6 +6,7 @@ I am a high school student doing some small time programming. Currently I do:
 * Javascript
 * Kotlin/Java (Android development)
 * Some React Native
+* Web Development (HTML/CSS/JS)
 
 Currently doing development for the [@sugarchain-project](https://github.com/sugarchain-project)
 
