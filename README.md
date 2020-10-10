@@ -5,6 +5,7 @@ I am a high school student doing some small time programming. Currently I do:
 * Python
 * Javascript
 * Kotlin/Java (Android development)
+* Spigot (Bukkit) Plugin Development (Java)
 * Some React Native
 * Web Development (HTML/CSS/JS)
 
