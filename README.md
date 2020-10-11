@@ -22,6 +22,17 @@ Currently doing development for the [@sugarchain-project](https://github.com/sug
   </tr>
 </table>
 
+#### Projects
+
+Projects | Description | Status
+-------- | ----------- | ------
+[CPU GUI Miner](https://github.com/Nugetzrul3/CPU-GUI-Miner)|A GUI wrapper for cpuminer-rkz. Used to mine Yespower type coins|Finished and being maintained. More features may be added later
+[Sugarchain Chrome Wallet](https://github.com/Nugetzrul3/Sugarchain-Chrome-Wallet), [Sugarchain Firefox Wallet](https://github.com/Nugetzrul3/Sugarchain-Firefox-Wallet)|A simple, lightweight chrome and firefox extension for the sugarchain wallet|Finished and being maintained.
+[Sugarchain Android Miner](https://github.com/Nugetzrul3/Sugarchain-Android-Miner)|An android miner written in Kotlin for GUI and a C++ miner backend|Taking a break/Discontinued. May come back to it later :shrug:
+[sweet](https://github.com/Nugetzrul3/sweet)|A lightweight and powerful python library for Sugarchain. Forked from ofek's [Bit](https://github.com/ofek/bit)|In development.
+[BeyondCoin Minecraft Plugin](https://github.com/Nugetzrul3/BeyondCoin-MC-Plugin)|A Spigot (Bukkit) plugin written for Beyondcoin tipping. Can be forked and ported for other bitcoin based altcoins|Almost finished. Just sign commands to be added and slight debugging
+[Sugarchain Reward half countdown](https://github.com/Nugetzrul3/sugarchainblockhalfsource)|A simple website developed to show when the next reward halving will occur|Finished and being maintained.
+
 #### Contact Me!
 - Telegram: [@salmaan1234](https://telegram.me/salmaan1234)
 - Discord: Too tall for u#9808
