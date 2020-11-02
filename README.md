@@ -5,9 +5,10 @@ I am a high school student doing some small time programming. Currently I do:
 * Python
 * Javascript
 * Kotlin/Java (Android development)
-* Spigot (Bukkit) Plugin Development (Java)
+* Spigot/Bukkit Plugin Development (Java)
 * Some React Native
 * Web Development (HTML/CSS/JS)
+* Some C++
 
 Currently doing development for the [@sugarchain-project](https://github.com/sugarchain-project)
 
