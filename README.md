@@ -32,7 +32,8 @@ Projects | Description | Status
 [Sugarchain Android Miner](https://github.com/Nugetzrul3/Sugarchain-Android-Miner)|An android miner written in Kotlin for GUI and a C++ miner backend|Taking a break/Discontinued. May come back to it later :shrug:
 [sweet](https://github.com/Nugetzrul3/sweet)|A lightweight and powerful python library for Sugarchain. Forked from ofek's [Bit](https://github.com/ofek/bit)|In development.
 [BeyondCoin Minecraft Plugin](https://github.com/Nugetzrul3/BeyondCoin-MC-Plugin)|A Spigot (Bukkit) plugin written for Beyondcoin tipping. Can be forked and ported for other bitcoin based altcoins|Almost finished. Just sign commands to be added and slight debugging
-[Sugarchain Reward half countdown](https://github.com/Nugetzrul3/sugarchainblockhalfsource)|A simple website developed to show when the next reward halving will occur [https://sugarchain-blockhalf.github.io](https://sugarchain-blockhalf.github.io)|Finished and being maintained.
+[Sugarchain Reward half countdown](https://github.com/Nugetzrul3/sugarchainblockhalfsource)|A simple website developed to show when the next reward halving will occur [https://sugarchain-blockhalf.github.io](https://sugarchain-blockhalf.github.io)| Finished and being maintained.
+[Sugarchain Telegram Tip Bot](https://github.com/Nugetzrul3/SugarchainTGBot)|A simple python telegram bot that utilises a REST api server and a modified version of python-bitcoin-utils without using a daemon|Finished and in testing stage
 
 #### Contact Me!
 - Telegram: [@salmaan1234](https://telegram.me/salmaan1234)
