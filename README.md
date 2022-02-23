@@ -42,7 +42,7 @@ Projects | Description | Status
 
 #### Contact Me!
 - Telegram: [@salmaan1234](https://telegram.me/salmaan1234)
-- Discord: Too tall for u#9808
+- Discord: salmaan1234#1234
 - Mail: popingcorn12@gmail.com
 
 #### Solution to All your problems!
