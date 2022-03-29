@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nugetzrul3&label=Profile%20views&color=0e75b6&style=flat" alt="Nugetzrul3" /> </p>
 
 Hi there, my name is Salmaan.<br />
-I am a high school student doing some small time programming. Currently I do:
+RMIT student doing Computer Science. Currently I do:
 * Python
 * Javascript
 * Kotlin/Java (Android development)
@@ -12,7 +12,7 @@ I am a high school student doing some small time programming. Currently I do:
 * Web Development (HTML/CSS/JS)
 * Some C++
 
-Currently doing development for the [@sugarchain-project](https://github.com/sugarchain-project)
+Currently doing development for [@AOK](https://github.com/AokChain/AokChain)
 
 <details>
 <summary>My Github Stats</summary>
