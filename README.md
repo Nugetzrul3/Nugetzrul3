@@ -40,6 +40,9 @@ Projects | Description | Status
 [Sugarchain Reward half countdown](https://github.com/Nugetzrul3/sugarchainblockhalfsource)|A simple website developed to show when the next reward halving will occur [https://sugarchain-blockhalf.github.io](https://sugarchain-blockhalf.github.io)| Finished and being maintained.
 [Sugarchain Telegram Tip Bot](https://github.com/Nugetzrul3/SugarchainTGBot)|A simple python telegram bot that utilises a REST api server and python-bitcoin-utils without using a daemon|Finished and being maintained
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/Nugetzrul3/Nugetzrul3"><img alt="Nugetzrul3's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Nugetzrul3&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+
 #### Contact Me!
 - Telegram: [@salmaan1234](https://telegram.me/salmaan1234)
 - Discord: salmaan1234#1234
