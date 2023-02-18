@@ -41,7 +41,7 @@ Projects | Description | Status
 [Sugarchain Telegram Tip Bot](https://github.com/Nugetzrul3/SugarchainTGBot)|A simple python telegram bot that utilises a REST api server and python-bitcoin-utils without using a daemon|Finished and being maintained
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/Nugetzrul3/Nugetzrul3"><img alt="Nugetzrul3's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Nugetzrul3&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/Nugetzrul3/Nugetzrul3"><img alt="Nugetzrul3's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nugetzrul3&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 #### Contact Me!
 - Telegram: [@salmaan1234](https://telegram.me/salmaan1234)
