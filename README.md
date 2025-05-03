@@ -3,16 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nugetzrul3&label=Profile%20views&color=0e75b6&style=flat" alt="Nugetzrul3" /> </p>
 
 Hi there, my name is Salmaan.<br />
-RMIT student doing Computer Science. Currently I do:
-* Python
-* Javascript
+I'm a Junior Software Engineer and a Computer Science graduate from RMIT.
+I have professional experience doing development in the following languages:
+* Python (API Dev and AWS)
+* Javascript (NodeJS and Express)
 * Kotlin/Java (Android development)
-* Spigot/Bukkit Plugin Development (Java)
-* Some React Native
+* React/React Native (Web and Mobile development)
 * Web Development (HTML/CSS/JS)
-* Some C++
-
-Currently doing development for [@AOK](https://github.com/AokChain/AokChain)
+* C++ and Rust (Low-level code development)
 
 <details>
 <summary>My Github Stats</summary>
@@ -33,23 +31,19 @@ Currently doing development for [@AOK](https://github.com/AokChain/AokChain)
 
 Projects | Description | Status
 -------- | ----------- | ------
-[CPU GUI Miner](https://github.com/Nugetzrul3/CPU-GUI-Miner)|A GUI wrapper for cpuminer-rkz. Used to mine Yespower type coins|Finished and being maintained. More features may be added later
-[Sugarchain Chrome Wallet](https://github.com/Nugetzrul3/Sugarchain-Chrome-Wallet), [Sugarchain Firefox Wallet](https://github.com/Nugetzrul3/Sugarchain-Firefox-Wallet)|A simple, lightweight chrome and firefox extension for the sugarchain wallet|Finished and being maintained.
-[Sugarchain Android Miner](https://github.com/Nugetzrul3/Sugarchain-Android-Miner)|An android miner written in Kotlin for GUI and a C++ miner backend|Taking a break/Discontinued. May come back to it later :shrug:
-[sweet](https://github.com/Nugetzrul3/sweet)|A lightweight and powerful python library for Sugarchain. Forked from ofek's [Bit](https://github.com/ofek/bit)|In development.
-[Sugarchain Reward half countdown](https://github.com/Nugetzrul3/sugarchainblockhalfsource)|A simple website developed to show when the next reward halving will occur [https://sugarchain-blockhalf.github.io](https://sugarchain-blockhalf.github.io)| Finished and being maintained.
-[Sugarchain Telegram Tip Bot](https://github.com/Nugetzrul3/SugarchainTGBot)|A simple python telegram bot that utilises a REST api server and python-bitcoin-utils without using a daemon|Finished and being maintained
-
+[Rust CLI Task Manager](https://github.com/Nugetzrul3/TaskManager-Rust-CLI)|A simple CLI task manager created to learn Rust, using the Rust STD and external libraries|Completed
+[SwapIndex](https://github.com/AokChain/SwapIndex)|Collaborated development with [@volbil](https://github.com/volbil) to build an API that indexes token swaps for the AOK cryptocurrency|Completed
+[Finance Tracker](https://github.com/Nugetzrul3/FinanceTracker-Project)|An API server that allows you to manage your finances with ease, built using FastAPI and SQLModel|In Development
+[CPU GUI Miner](https://github.com/Nugetzrul3/CPU-GUI-Miner)|A GUI wrapper for cpuminer-rkz. Used to mine Yespower type coins|Completed
+[Sugarchain Chrome Wallet](https://github.com/Nugetzrul3/Sugarchain-Chrome-Wallet), [Sugarchain Firefox Wallet](https://github.com/Nugetzrul3/Sugarchain-Firefox-Wallet)|A simple, lightweight chrome and firefox extension for the sugarchain wallet|Completed
+[Sugarchain Android Miner](https://github.com/Nugetzrul3/Sugarchain-Android-Miner)|An android miner written in Kotlin for GUI and a C++ miner backend|Completed but removed from Playstore
+[Sugarchain Telegram Tip Bot](https://github.com/Nugetzrul3/SugarchainTGBot)|A simple python telegram bot that utilises a REST api server and python-bitcoin-utils without using a daemon|Completed
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/Nugetzrul3/Nugetzrul3"><img alt="Nugetzrul3's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nugetzrul3&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 #### Contact Me!
 - Telegram: [@salmaan1234](https://telegram.me/salmaan1234)
-- Discord: salmaan1234#1234
-- Mail: popingcorn12@gmail.com
-
-#### Solution to All your problems!
-<img src="https://github.com/Nugetzrul3/Nugetzrul3/blob/master/itcrowd.gif" style="width:100%!important;"/>
+- Mail: salmaan_kmn@hotmail.com
 <!--
 **Nugetzrul3/Nugetzrul3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
