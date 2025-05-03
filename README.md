@@ -12,6 +12,8 @@ I have professional experience doing development in the following languages:
 * Web Development (HTML/CSS/JS)
 * C++ and Rust (Low-level code development)
 
+I am also enrolled in a cybersecurity course @tryhackme to strengthen my cybersecurity skills and progress as a CyberSec professional
+
 <details>
 <summary>My Github Stats</summary>
 <br />
