@@ -34,6 +34,7 @@ I am also enrolled in a cybersecurity course @tryhackme to strengthen my cyberse
 Projects | Description | Status
 -------- | ----------- | ------
 [Rust CLI Task Manager](https://github.com/Nugetzrul3/TaskManager-Rust-CLI)|A simple CLI task manager created to learn Rust, using the Rust STD and external libraries|Completed
+[RustySync](https://github.com/Nugetzrul3/RustySync)|A lightweight file synchroniser that uploads changes to a remote server|In Development
 [SwapIndex](https://github.com/AokChain/SwapIndex)|Collaborated development with [@volbil](https://github.com/volbil) to build an API that indexes token swaps for the AOK cryptocurrency|Completed
 [Finance Tracker](https://github.com/Nugetzrul3/FinanceTracker-Project)|An API server that allows you to manage your finances with ease, built using FastAPI and SQLModel|In Development
 [CPU GUI Miner](https://github.com/Nugetzrul3/CPU-GUI-Miner)|A GUI wrapper for cpuminer-rkz. Used to mine Yespower type coins|Completed
