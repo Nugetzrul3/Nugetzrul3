@@ -14,8 +14,6 @@ I have professional experience doing development in the following languages:
 
 I am also enrolled in a cybersecurity course @tryhackme to strengthen my cybersecurity skills and progress as a CyberSec professional
 
-<details>
-<summary>My Github Stats</summary>
 <br />
 <table>
   <tr>
@@ -27,7 +25,6 @@ I am also enrolled in a cybersecurity course @tryhackme to strengthen my cyberse
     </td>
   </tr>
 </table>
-</details>
 
 #### Projects
 
