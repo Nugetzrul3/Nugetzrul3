@@ -30,6 +30,7 @@ I am also enrolled in a cybersecurity course @tryhackme to strengthen my cyberse
 
 Projects | Description | Status
 -------- | ----------- | ------
+[CryptoTipper](https://github.com/Nugetzrul3/CryptoTipper-MC)|A simple Minecraft TipBot plugin for Bitcoin (and bitcoin based coins). Add crypto to your server! Built with Java and Spigot|Completed (in final stages of testing)
 Cosmic Companion|A cross-platform app (React for web + React Native for mobile) that fetches and curates daily space content from NASA’s APIs. Split into three repos: [website (React)](https://github.com/Nugetzrul3/cosmic-companion-web), [backend (Express + Apollo)](https://github.com/Nugetzrul3/cosmic-companion-backend), [mobile (React Native)](https://github.com/Nugetzrul3/cosmic-companion-mobile)|In Development
 [Rust CLI Task Manager](https://github.com/Nugetzrul3/TaskManager-Rust-CLI)|A simple CLI task manager created to learn Rust, using the Rust STD and external libraries|Completed
 [RustySync](https://github.com/Nugetzrul3/RustySync)|A lightweight file synchroniser that uploads changes to a remote server|Completed
